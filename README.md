@@ -4,10 +4,10 @@ This is our group's final project for Cloud Computing. It is hosted using Cloud 
 
 ## Team members
 
-Shejan Shuza - Product Manager, Backend engineer, code verification
-Ariel Guerrero - Frontend and Backend engineer
-Viswa Bhargavi - Backend engineer and Database engineer
-Hunter Long - Backend engineer and code verification
+- Shejan Shuza - Product Manager, Backend engineer, code verification
+- Ariel Guerrero - Frontend and Backend engineer
+- Viswa Bhargavi - Backend engineer and Database engineer
+- Hunter Long - Backend engineer and code verification
 
 The full documentation and video exists at the [public repository](https://github.com/aguerrero232/pull-den)
 
