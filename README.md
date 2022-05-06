@@ -14,6 +14,6 @@ The full documentation and video exists at the [public repository](https://githu
 My role was the Project Manager of the project, this included providing documentation for the engineers, organizing production efforts, and helping in backend creation (since i was the most familiar with many of the libraries that were used).
 
 
-## ***Video ***
+## ***Video***
 
 [![](https://img.youtube.com/vi/sZdMpCt7g9w/0.jpg)](https://www.youtube.com/watch?v=sZdMpCt7g9w)
